@@ -1,6 +1,6 @@
 # The Live-Ops Incident Swarm
 
-A concurrent incident response room built with the Mozaik framework for the Hackathon.
+A concurrent incident response room built with the Mozaik framework.
 
 ## The Concept
 Traditional multi-agent systems often rely on rigid, sequential pipelines or central orchestrators to pass data back and forth. **The Live-Ops Incident Swarm** takes a different approach by leveraging **Mozaik's** core philosophy: event-driven concurrency via a shared broadcast bus.
